@@ -1,0 +1,7 @@
+# Запуск вирт окружения
+cd c/Djangoweb/venv/Scripts
+. activate
+
+#Запуск отладочного сервера
+cd c/Djangoweb/firstproject_root
+python manage.py runserver
